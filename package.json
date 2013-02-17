@@ -1,0 +1,9 @@
+{
+    "name": "trelloscrum",
+    "license": "MPL 2.0",
+    "author": "Alex Good",
+    "version": "0.1",
+    "fullName": "TrelloScrum for Firefox",
+    "id": "1e8e607c-e1f8-403c-80ba-41eb5bce2a88",
+    "description": "A port of TrelloScrum (https://github.com/Q42/TrelloScrum) for firefox"
+}
